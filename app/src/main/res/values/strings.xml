@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="Length">Length Converter</string>
+    <string name="From">Yards</string>
+    <string name="Clear">Clear</string>
+    <string name="CALCULATE">CALCULATE</string>
+    <string name="MODE">MODE</string>
+    <string name="Meters">Meters</string>
+    <string name="setting">Settings</string>
+</resources>
